@@ -1,0 +1,17 @@
+platformer.o: platformer.c \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/sys/types.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/stdlib.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/stddef.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/abs.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/convert.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/malloc.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/qsort.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/rand.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/stdio.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/libgte.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/libetc.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/libgpu.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/libapi.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/kernel.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/r3000.h \
+ C:/Users/admin/Downloads/nolibgs_hello_worlds/nolibgs_hello_worlds/psyq/include/asm.h

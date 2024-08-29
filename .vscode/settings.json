@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "libpad.h": "c",
+        "libgte.h": "c",
+        "libgpu.h": "c"
+    }
+}
